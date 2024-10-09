@@ -1,0 +1,57 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directories
+data/
+*.csv
+*.tsv
+
+# Model files
+model/
+*.h5
+*.keras
+
+# Logs
+logs/
+*.log
+
+# DVC cache
+.dvc/
+.dvc/cache/
+.dvc/tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+config.yaml
+.env
+
+# Python packaging files
+*.egg-info/
+*.eggs/
+build/
+dist/
+
+# Docker
+docker-compose.yml
+*.env
+
+# Test coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
