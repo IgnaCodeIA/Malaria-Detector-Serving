@@ -34,7 +34,7 @@ This project provides an API for detecting malaria in blood cell images using a 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/IgnaCodeIA/Malaria-Detector-Serving
    cd Malaria-Detector-API
    ```
 
